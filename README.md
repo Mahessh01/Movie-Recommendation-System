@@ -53,8 +53,7 @@ the similarity.pkl file is not included in this repo because of GitHub's file si
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Movie-Recommendation-System.git
-```
+git clone and the project link here```
 
 ### 2. Navigate to the project folder
 
@@ -109,28 +108,6 @@ The application will open in your default browser.
 
 ---
 
-## 📸 Screenshots
-
-You can add screenshots of your application inside a `screenshots/` folder.
-
-Example:
-
-```
-screenshots/
-├── home.png
-├── recommendations.png
-```
-
-Then include them in the README:
-
-```markdown
-![Home](screenshots/home.png)
-
-![Recommendations](screenshots/recommendations.png)
-```
-
----
-
 ## 🔑 TMDB API
 
 Movie posters are retrieved using **The Movie Database (TMDB) API**.
@@ -157,30 +134,13 @@ To use your own API key:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome.
-
-1. Fork the repository.
-2. Create a new feature branch.
-3. Commit your changes.
-4. Push to your branch.
-5. Open a Pull Request.
-
----
-
 ## 📄 License
 
 This project is created for educational and portfolio purposes.
 
 ---
 
-## 👨‍💻 Author
 
 **Mahesh Pharswan**
 
-GitHub: https://github.com/YOUR_USERNAME
-
----
-
-⭐ If you found this project useful, consider giving it a star on GitHub!
+GitHub: https://github.com/Mahessh01
