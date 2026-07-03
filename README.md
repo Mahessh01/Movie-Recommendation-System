@@ -46,6 +46,7 @@ Movie-Recommendation-System/
 ```
 
 ---
+the similarity.pkl file is not included in this repo because of GitHub's file size limit and the user can generate all the models by running movie-recommender.ipynb in the jupyter notebook.
 
 ## ⚙️ Installation
 
